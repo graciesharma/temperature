@@ -13,7 +13,7 @@ input[type="number"] {
 
 #input-celsius {
   background-color: #dec961;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 #input-fahrenheit {
@@ -23,11 +23,11 @@ input[type="number"] {
 
 #input-kelvin {
   background-color: #dbd3af;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 .form-padding {
-  padding: 2rem 2rem;
+  padding: 1rem 2rem;
 }
 
 ::-webkit-input-placeholder {
